@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: white;
+}
+#MainButtons{
+    background-color: blueviolet;
+   padding: 5px;
+   align-items: center;
+   margin: 5px;
+}
+a:hover{
+    background-color: cyan;
+}
+a{
+    align-items: flex-end;
+}
